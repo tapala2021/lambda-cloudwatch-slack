@@ -1,5 +1,5 @@
 # lambda-cloudwatch-slack
-
+## this was cloned via youtube: How to send AWS CloudWatch Alarms to Slack
 An [AWS Lambda](http://aws.amazon.com/lambda/) function for better Slack notifications. 
 [Check out the blog post](https://assertible.com/blog/npm-package-lambda-cloudwatch-slack).
 
